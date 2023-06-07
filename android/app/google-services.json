@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173969194161",
+    "project_id": "movie-app-2d489",
+    "storage_bucket": "movie-app-2d489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173969194161:android:51ed9c646577b527e23690",
+        "android_client_info": {
+          "package_name": "com.example.zaki_movie_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173969194161-p92f98pbgkce7rdgeoejalq59vr7qq76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsPXLE6jFiKpCarp83HCxsGx-siRBJFgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173969194161-p92f98pbgkce7rdgeoejalq59vr7qq76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
