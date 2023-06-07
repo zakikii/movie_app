@@ -6,6 +6,7 @@
 - lottie animation
 - lazy loading on maincreen, infinite scrolling movie and tv shows
 - and more
+![WhatsApp Image 2023-06-07 at 09 39 17](https://github.com/zakikii/movie_app/assets/48177776/8b930bbc-339b-4356-8c1f-cbacb56403e4)
 
 ## How To run
 1. jalankan "flutter pub get"
