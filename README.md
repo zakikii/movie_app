@@ -2,9 +2,9 @@
 ## features
 - login firebase
 - using provider
-- check connection (hanya di mainscreen dan moviescreen karena keterbatasan waktu)
+- check connection (only in mainscreen and moviescreen, due to the time)
 - lottie animation
-- lazy loading on maincreen, infinite scrolling movie and tv shows
+- lazy loading on mainscreen, infinite scrolling movie and tv shows
 - and more
 
 ## screenshots
